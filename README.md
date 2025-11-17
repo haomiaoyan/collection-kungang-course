@@ -14,7 +14,7 @@
 
 提交流程提示和作业要求：
 
-1. 组长 Fork 仓库 west2-online/kunang-github-course
+1. 组长 Fork 本仓库
 2. 组长邀请所有组员作为 Collaborator
 3. 所有组员 Clone 组长的仓库到本地
 4. 在 work 文件夹下创建一个命名为小组名的文件夹
